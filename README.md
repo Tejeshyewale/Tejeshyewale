@@ -75,6 +75,11 @@ If it involves **data → insight → decision**, I’m interested.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejeshyewale&layout=compact&hide_border=true" width="40%">
 </p>
 
+<p align="center">
+  <em>Consistent project-based contributions focused on Data Science, Analytics, and Cloud.</em>
+</p>
+
+
 ---
 
 ## 🎯 What I’m Optimizing For
