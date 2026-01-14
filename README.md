@@ -73,13 +73,17 @@ I build data-driven systems, dashboards, and ML solutions that turn raw data int
 ---
 
 ## 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejeshyewale&show_icons=true&hide_border=true&theme=default" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejeshyewale&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=tejeshyewale&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejeshyewale&layout=compact&hide_border=true" width="40%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejeshyewale" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejeshyewale&layout=compact" />
 </p>
 
 ---
