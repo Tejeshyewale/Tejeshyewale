@@ -1,117 +1,97 @@
-![logo](https://github.com/Tejeshyewale/Tejeshyewale/blob/e9c3b296d687c910f6c350165ee7058c9cf097b8/Blue%20Geometric%20Graphic%20Designer%20LinkedIn%20Career%20Page%20Background.png)
+![header](https://github.com/Tejeshyewale/Tejeshyewale/blob/e9c3b296d687c910f6c350165ee7058c9cf097b8/Blue%20Geometric%20Graphic%20Designer%20LinkedIn%20Career%20Page%20Background.png)
 
-<h1 align="center">Hi 👋, I'm Tejesh S. Yewale</h1>
-<h3 align="center">Data Science Enthusiast | Cloud & ML Aspirant | Power BI Developer</h3>
+<h1 align="center">Tejesh S. Yewale</h1>
+<h3 align="center">Building Data Products • Exploring Cloud & ML • Turning Data into Decisions</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<p align="center">
+  <a href="https://linkedin.com/in/tejesh-yewale"><img src="https://img.shields.io/badge/LinkedIn-TejeshYewale-blue?style=flat&logo=linkedin"></a>
+  <a href="mailto:tejeshyewale917@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail"></a>
+  <a href="https://github.com/Tejeshyewale"><img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github"></a>
+</p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=tejeshyewale&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tejeshyewale&color=blueviolet&style=flat">
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎓 Computer Engineering student passionate about **Data Science & Cloud Computing**
-- 📊 Love turning **raw data into meaningful business insights**
-- ☁️ Exploring **AWS, ML, and real-world data projects**
-- 🧠 Strong believer in **learning by building projects**
+## 🧠 Who Am I?
+I’m a **Computer Engineering student** obsessed with **data, systems, and scale**.
+
+I don’t just “analyze datasets” —  
+I **build dashboards, models, and cloud pipelines** that answer real business questions.
+
+If it involves **data → insight → decision**, I’m interested.
 
 ---
 
-## 🔭 Currently Working On
-- Cloud-based **Data Science & ML projects**
-- Improving **Power BI dashboards & storytelling**
-- Strengthening **ML fundamentals**
+## 🚧 What I’m Building Right Now
+- 📊 **Production-grade Power BI dashboards** (Walmart, Blinkit, Retail Analytics)
+- 🤖 **ML models** focused on real-world prediction problems
+- ☁️ **AWS-based deployments** (S3, Lambda, API Gateway, SageMaker)
+- 🧪 Experimenting with **end-to-end data pipelines**
 
 ---
 
-## 🌱 Currently Learning
-- Machine Learning & Deep Learning concepts  
-- AWS services for ML deployment  
-- Advanced SQL & Data Analytics  
+## 🧩 Featured Work (Live & Hands-on)
+| Project | Focus | Stack |
+|-------|------|------|
+| 🛒 Walmart Sales Intelligence | Business Analytics | Power BI, DAX |
+| 🛍️ Blinkit Analytics Dashboard | Retail Insights | Power BI |
+| 📰 Fake News Detection | ML + Deployment | Python, AWS |
+| 📈 Supermarket Sales Analysis | EDA & KPIs | Pandas, SQL |
+
+👉 **Explore everything here:**  
+🔗 https://github.com/Tejeshyewale
 
 ---
 
-## 💼 Skills & Expertise
-- **Programming:** Python, C++  
-- **Data Analysis:** Pandas, NumPy, Power BI, Excel  
-- **Machine Learning:** Scikit-learn  
-- **Databases:** MySQL  
-- **Cloud & DevOps:** AWS, Git, GitHub, Kubernetes (Basics)  
-- **Visualization:** Power BI, Matplotlib, Seaborn  
+## ⚙️ My Technical Stack
+**Data & ML**
+- Python, Pandas, NumPy
+- Scikit-learn, EDA, Feature Engineering
+
+**Analytics & BI**
+- Power BI (DAX, Data Modeling)
+- Excel, Business KPIs
+
+**Databases**
+- MySQL, SQL querying
+
+**Cloud & DevOps**
+- AWS (S3, Lambda, API Gateway)
+- Git, GitHub
+- Kubernetes (foundational)
 
 ---
 
-## 👨‍💻 Projects
-🔗 **All my projects:**  
-👉 https://github.com/Tejeshyewale  
+## 📊 GitHub in Numbers
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tejeshyewale&show_icons=true&hide_border=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejeshyewale&hide_border=true" width="48%">
+</p>
 
-Highlighted Projects:
-- 📊 Walmart Sales Analysis Dashboard (Power BI)
-- 🛒 Blinkit Sales Dashboard
-- 🤖 Fake News Detection (ML + AWS)
-- 📈 Supermarket Sales Data Analysis
-
----
-
-## 💬 Ask Me About
-**Python | Pandas | SQL | Power BI | AWS | Data Science | Machine Learning**
-
----
-
-## 📫 Reach Me At
-- 📧 Email: **tejeshyewale917@gmail.com**
-- 📄 Resume:  
-  👉 https://drive.google.com/file/d/1BfWHUnSX0x5aIh-jxk2XwU5mm18L5e6X/view
-
----
-
-## 🌐 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/tejesh-yewale" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://twitter.com/tejeshyewa4536" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-</a>
-<a href="https://kaggle.com/tejeshyewale" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
-</a>
-<a href="https://instagram.com/_tejas_417" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejeshyewale&layout=compact&hide_border=true" width="40%">
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-</p>
+## 🎯 What I’m Optimizing For
+- 📌 Becoming a **strong Data Scientist**
+- 📌 Building **cloud-native ML systems**
+- 📌 Writing cleaner, scalable, production-ready code
+- 📌 Solving problems that matter
 
 ---
 
-## 📊 GitHub Stats
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=tejeshyewale&show_icons=true&locale=en" />
-</p>
+## 💬 Let’s Talk If You’re Into
+**Data Science • Cloud • Power BI • ML Projects • Analytics • Career Growth**
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tejeshyewale&layout=compact" />
-</p>
-
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tejeshyewale" />
-</p>
+📫 **Email:** tejeshyewale917@gmail.com  
+📄 **Resume:**  
+👉 https://drive.google.com/file/d/1BfWHUnSX0x5aIh-jxk2XwU5mm18L5e6X/view
 
 ---
 
-⚡ **Fun Fact:** I enjoy learning new things and explaining complex topics in simple ways 😄
+⚡ *Fun fact:* I enjoy breaking complex systems into simple mental models.
