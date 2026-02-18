@@ -1,4 +1,3 @@
-![header](https://github.com/Tejeshyewale/Tejeshyewale/blob/e9c3b296d687c910f6c350165ee7058c9cf097b8/Blue%20Geometric%20Graphic%20Designer%20LinkedIn%20Career%20Page%20Background.png)
 
 <h1 align="center">Hey 👋 I'm Tejesh S. Yewale</h1>
 <h3 align="center">
