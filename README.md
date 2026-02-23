@@ -62,12 +62,11 @@ Data Science Engineer | Machine Learning | Cloud & MLOps
 | 🛒 Supermarket Sales Dashboard | Business Intelligence Insights | Power BI |
 
 ---
-
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TejeshYewale&show_icons=true&theme=default" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejeshYewale&layout=compact&theme=default" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TejeshYewale&show_icons=true" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TejeshYewale&layout=compact" />
 </p>
 
 ---
