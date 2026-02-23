@@ -65,13 +65,10 @@ Data Science Engineer | Machine Learning | Cloud & MLOps
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=TejeshYewale&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejeshYewale&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TejeshYewale&show_icons=true&theme=default" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejeshYewale&layout=compact&theme=default" />
+</p>
 
 ---
 
