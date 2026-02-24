@@ -60,11 +60,11 @@ My goal is to become a **Production-Level ML Engineer at a top MNC**, building s
 ---
 
 ## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-## 📊 GitHub Activity
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TejeshYewale)
 
-![Tejesh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TejeshYewale)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TejeshYewale)
 ---
 
 ## 🏆 Highlights
