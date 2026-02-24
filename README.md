@@ -1,77 +1,74 @@
-<h1 align="center">Hi 👋 I'm Tejesh S. Yewale</h1>
+<!-- ===== HEADER ===== -->
 
-<h3 align="center">
-Data Science Engineer | Machine Learning | Cloud & MLOps
-</h3>
+<h1 align="center">Tejesh S. Yewale</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=650&lines=Building+Production+Ready+ML+Systems;AWS+%7C+Docker+%7C+CI%2FCD;End-to-End+Machine+Learning+Projects;Future+ML+Engineer+at+Top+MNC" />
+  <b>Machine Learning Engineer • Data Science • Cloud & MLOps</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Building+Production-Ready+ML+Systems;AWS+%7C+Docker+%7C+CI%2FCD;End-to-End+Machine+Learning+Projects;Turning+Data+Into+Scalable+Solutions" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Computer Engineering Student (India)  
-- 🤖 Focused on End-to-End Machine Learning Systems  
-- ☁ Working with AWS, Docker & CI/CD  
-- 📊 Passionate about solving real-world data problems  
-- 🎯 Goal: Production-Level ML Engineer  
+I am a Computer Engineering student focused on building **end-to-end Machine Learning systems** with strong foundations in:
+
+- 🤖 Machine Learning & Deep Learning  
+- ☁ Cloud Deployment (AWS)  
+- ⚙ CI/CD & Docker  
+- 📊 Data Analytics & Visualization  
+
+My goal is to become a **Production-Level ML Engineer at a top MNC**, building scalable AI systems.
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Featured Work
 
-- 🐔 Chicken Disease Classification (CNN + Flask + Docker)  
-- 📰 Fake News Detection (ML + AWS Deployment)  
-- 🍽 Restaurant Rating Prediction API (SageMaker + Lambda)  
-- 🌾 Crop Yield Prediction Pipeline  
-
----
-
-## 🛠 Tech Stack
-
-### Programming  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Machine Learning  
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-
-### Cloud & DevOps  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
-
-### Analytics  
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
-
----
-
-## 🌟 Featured Projects
-
-| Project | Description | Tech |
-|----------|------------|------|
-| 🐔 Chicken Disease Classification | End-to-End Deep Learning System | TensorFlow, Flask, Docker |
+| Project | Description | Stack |
+|----------|------------|--------|
+| 🐔 Chicken Disease Classification | End-to-End Deep Learning Pipeline | TensorFlow, Flask, Docker |
 | 📰 Fake News Detection | NLP Model with Cloud Deployment | Sklearn, AWS |
 | 🍽 Restaurant Rating API | ML Model Deployed on AWS | SageMaker, Lambda |
 | 🛒 Supermarket Sales Dashboard | Business Intelligence Insights | Power BI |
 
 ---
+
+## 🛠 Technical Expertise
+
+### Programming
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql)
+![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus)
+
+### Machine Learning
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow)
+![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111827?style=for-the-badge&logo=github-actions)
+
+### Analytics
+![Power BI](https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-111827?style=for-the-badge&logo=microsoft-excel)
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TejeshYewale&show_icons=true" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TejeshYewale&layout=compact" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TejeshYewale&show_icons=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejeshYewale&layout=compact" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Highlights
 
 - 🏅 AWS Cloud Essentials Certified  
 - 👨‍💼 Data Science Lead – Linux Club  
@@ -80,20 +77,20 @@ Data Science Engineer | Machine Learning | Cloud & MLOps
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/tejesh-yewale-19b940252/">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/tejesh-yewale-19b940252/">
-<img src="https://img.shields.io/badge/LinkedIn-Tejesh%20Yewale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://tejesh-protfolio-e81kx0ogl-tejesh-yewale-s-projects.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
+  <a href="https://tejesh-protfolio-e81kx0ogl-tejesh-yewale-s-projects.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Personal%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-⭐ From [TejeshYewale](https://github.com/TejeshYewale)
+<p align="center">
+  <i>Building scalable AI systems with clean engineering principles.</i>
+</p>
